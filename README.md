@@ -16,14 +16,17 @@
 
 ###### Para añadir un fichero remoto a nuestro repositorio [Github](https://pages.github.com/). tenemos que seguir los siguientes pasos
 
-'''
+```
 git add fichero
+```
 
-'''
+```
 git commit -m "Comentario sobre el commit"
+```
 
-'''
+```
 git push
+```
 
 
 
