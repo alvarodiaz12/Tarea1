@@ -16,6 +16,8 @@
 
 ###### Para añadir un fichero remoto a nuestro repositorio [Github](https://pages.github.com/). tenemos que seguir los siguientes pasos
 
+
+
 ```console
 git add fichero
 ```
@@ -27,6 +29,9 @@ git commit -m "Comentario sobre el commit"
 ```console
 git push
 ```
+
+## No hay cerdos en la luna
+
 
 
 
